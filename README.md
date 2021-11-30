@@ -1,3 +1,7 @@
+# Description
+
+I've created this tool to help myself calulate net income as a contractor
+
 # MdeMora-Skeleton
 
 I've created this template to reuse my own code setup. Feel free to use it!
