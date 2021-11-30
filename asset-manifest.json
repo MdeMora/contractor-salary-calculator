@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/contractor-salary-calculator/static/css/main.42305071.chunk.css",
+    "main.js": "/contractor-salary-calculator/static/js/main.ad862d95.chunk.js",
+    "main.js.map": "/contractor-salary-calculator/static/js/main.ad862d95.chunk.js.map",
+    "runtime-main.js": "/contractor-salary-calculator/static/js/runtime-main.d0b7b69e.js",
+    "runtime-main.js.map": "/contractor-salary-calculator/static/js/runtime-main.d0b7b69e.js.map",
+    "static/css/2.a9d3df14.chunk.css": "/contractor-salary-calculator/static/css/2.a9d3df14.chunk.css",
+    "static/js/2.40528d84.chunk.js": "/contractor-salary-calculator/static/js/2.40528d84.chunk.js",
+    "static/js/2.40528d84.chunk.js.map": "/contractor-salary-calculator/static/js/2.40528d84.chunk.js.map",
+    "index.html": "/contractor-salary-calculator/index.html",
+    "static/css/2.a9d3df14.chunk.css.map": "/contractor-salary-calculator/static/css/2.a9d3df14.chunk.css.map",
+    "static/css/main.42305071.chunk.css.map": "/contractor-salary-calculator/static/css/main.42305071.chunk.css.map",
+    "static/js/2.40528d84.chunk.js.LICENSE.txt": "/contractor-salary-calculator/static/js/2.40528d84.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/contractor-salary-calculator/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0b7b69e.js",
+    "static/css/2.a9d3df14.chunk.css",
+    "static/js/2.40528d84.chunk.js",
+    "static/css/main.42305071.chunk.css",
+    "static/js/main.ad862d95.chunk.js"
+  ]
+}
