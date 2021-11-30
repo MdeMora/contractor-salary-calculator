@@ -2,6 +2,8 @@
 
 I've created this tool to help myself calulate net income as a contractor
 
+url: https://mdemora.github.io/contractor-salary-calculator/
+
 # MdeMora-Skeleton
 
 I've created this template to reuse my own code setup. Feel free to use it!
